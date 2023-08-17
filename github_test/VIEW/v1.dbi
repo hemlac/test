@@ -1,0 +1,10 @@
+{
+  "checkOption" : "NONE",
+  "columns" : [ "a" ],
+  "comment" : null,
+  "name" : "v1",
+  "query" : "select 1 AS a",
+  "securityType" : "DEFINER",
+  "type" : "view",
+  "unit" : "github_test"
+}
