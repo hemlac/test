@@ -1,0 +1,11 @@
+{
+  "comment" : "",
+  "definition" : "BEGIN\r\nEND",
+  "deterministic" : "N",
+  "externalLanguage" : "SQL",
+  "name" : "alma",
+  "parameters" : [ ],
+  "securityType" : "DEFINER",
+  "type" : "procedure",
+  "unit" : "github_test"
+}

@@ -1,0 +1,22 @@
+{
+  "comment" : "",
+  "definition" : "BEGIN\r\n\treturn 1;\r\nEND",
+  "deterministic" : "N",
+  "externalLanguage" : "SQL",
+  "name" : "szilva",
+  "parameters" : [ {
+    "dataLength" : 10,
+    "dataPrecision" : 0,
+    "defaultValue" : null,
+    "inout" : null,
+    "name" : null,
+    "nullable" : null,
+    "readOnly" : null,
+    "returnType" : 1,
+    "type" : "int"
+  } ],
+  "returnType" : "int",
+  "securityType" : "DEFINER",
+  "type" : "function",
+  "unit" : "github_test"
+}

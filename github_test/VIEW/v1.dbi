@@ -3,7 +3,7 @@
   "columns" : [ "a" ],
   "comment" : null,
   "name" : "v1",
-  "query" : "select 2 AS a",
+  "query" : "select 21 AS a",
   "securityType" : "DEFINER",
   "type" : "view",
   "unit" : "github_test"
